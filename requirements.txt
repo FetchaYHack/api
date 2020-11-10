@@ -1,0 +1,11 @@
+flask
+flask-cors
+flask-sqlalchemy
+flask-migrate
+psycopg2
+boto3
+requests
+gunicorn
+redis
+celery
+pyjwt
