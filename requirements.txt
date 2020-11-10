@@ -7,5 +7,4 @@ boto3
 requests
 gunicorn
 redis
-celery
 pyjwt
